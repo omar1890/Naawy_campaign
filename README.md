@@ -1,9 +1,3 @@
 # Naawy_campaign
 
-What I Couldn't do in the time 
-- Powerpoint 
-
-What we can do in the future :
-- NLP over message feature
-- Tuning Model
-- Apply another model 
+Analysis and predictive modeling on Marketing Campaign dataset for a company called Nawy , Egypt
